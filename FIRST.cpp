@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string>
+// #include <string>
 using namespace std;
 
 int main()
@@ -77,7 +77,7 @@ int main()
         cout << "I see you belong to December!";
         break;
     default:
-        cout << "Ayo bro did you forgot your birthday!";
+        cout << "Ayo bro did you forget your birthday!";
         break;
     }
 }
